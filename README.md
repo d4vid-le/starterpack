@@ -64,3 +64,4 @@ Although the module walks you through the basics of setting up a JS development 
 - JavaScript
 - Git
 - How to use an IDE
+# starterpack
